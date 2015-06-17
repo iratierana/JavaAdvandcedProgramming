@@ -1,0 +1,4 @@
+Hola$Adios
+Kaixo$Agur
+Hello$Bye
+Hallo$Auf wiedersehen
